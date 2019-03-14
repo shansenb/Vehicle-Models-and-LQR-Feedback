@@ -6,10 +6,10 @@ A short collection of jupyter notebooks giving an explanation and alternative vi
 
 The jupyter notebooks in this repo can be run locally with 
 
-*Python >= 2.7
-*numpy
-*matplotlib
-*scipy
+* Python >= 2.7
+* numpy
+* matplotlib
+* scipy
 
 They contain a Kinematic bicycle model and dynamic bicycle model and a few simple maneuvers that
 are followed using a linear time varying (LTV) linear quadratic regulator. 
@@ -20,6 +20,6 @@ Although these models are well understood and there are a variety of resources t
 
 ---
 
-#Changes
+# Changes
 
 If you see an omision or more importantly an error, submit a pull request and I will try to incorporate your changes as my time allows
